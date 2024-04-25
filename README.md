@@ -29,7 +29,7 @@ Chi-squared tests were conducted to test the hypothesis that there is no correla
 #### Hypothesis 2: Correlation between Age, Smoking Status, and Prevalent CHD
 The data was segmented into age groups to analyze the prevalence of CHD across different age groups. The analysis revealed trends in CHD prevalence based on age, suggesting potential correlations that warrant further investigation.
 
-# Section 2: This section focuses on analyzing the relationship between sex, cholesterol levels, and the prevalence of Coronary Heart Disease (CHD) across two periods: Period 1 and Period 3. The analysis aims to understand how these factors correlate with the prevalence of CHD in a population.
+# Section 2: This section examines the relationship between sex, cholesterol levels, and CHD prevalence in two periods, aiming to understand their correlation with CHD incidence.
 
 # Data Preparation
 ## Initial Data Loading and Filtering
@@ -58,7 +58,7 @@ The data was segmented into age groups to analyze the prevalence of CHD across d
 * he number of male and female smokers with CHD in Period 3 was calculated and plotted.
 * The bar chart titled "Fig 2.4: CHD Distribution by Smoking Status and Gender for Period 3" shows the distribution of CHD cases by smoking status and gender for Period 3.
 
-# Section 2b: This section continues the analysis on the relationship between cholesterol levels and Coronary Heart Disease (CHD), focusing on different periods. The analysis aims to understand the distribution of cholesterol levels among participants with CHD, as well as the correlation between cholesterol levels, smoking status, and CHD across the two periods.
+# Section 2b: This section explores the link between cholesterol levels and CHD across two periods, examining their distribution and correlation with smoking status.
 
 ## Data Preparation
 ### Initial Data Loading and Filtering
@@ -87,7 +87,7 @@ The data was segmented into age groups to analyze the prevalence of CHD across d
 * The majority of participants with CHD in Period 3 had 'abnormally high' cholesterol levels.
 * No outliers were found below the lowerbound range, indicating that all identified outliers had 'abnormally high' cholesterol levels.
 
-# Section 3: This section investigates the relationship between Body Mass Index (BMI) and the prevalence of Coronary Heart Disease (CHD) across two different periods. The analysis aims to understand how BMI categories influence the occurrence of CHD and if there are any variations across different demographic groups such as sex and smoking status.
+# Section 3: This section examines the connection between BMI and CHD across two periods, exploring its impact across various demographic groups like sex and smoking status.
 
 # Data Preparation
 ## Data Loading and Cleaning
